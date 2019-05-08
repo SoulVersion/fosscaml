@@ -9,5 +9,6 @@ tags:
 keywords:
   - awd
 autoThumbnailImage: true
+thumbnailImage: /images/uploads/logo.png
 ---
 awdawdadawdawdawdadwdawd
