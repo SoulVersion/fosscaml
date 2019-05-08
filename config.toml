@@ -1,6 +1,6 @@
 baseurl                 = "https://fosscaml.netlify.com/"
 DefaultContentLanguage  = "en"
-title                   = "🄵Ö🅂🅂ⒸÄⓂⓁ"
+title                   = "FOSSCAML"
 theme                   = "hugo-future-imperfect-slim"
 preserveTaxonomyNames   = true
 paginate                = 3
@@ -21,7 +21,7 @@ disableLanguages        = [""]
   highlightjsTheme      = "github"
   highlightjsLang       = ["html", "css", "js", "toml"]
   # Sets where "View More Posts" links to
-  viewMorePostsLink     = "/blog/"
+  viewMorePostsLink     = "/post/"
   # Activate Estimated Reading Times, which appear in the post headers
   readingTime           = true
   # Sets which Social Share links appear in posts.
@@ -46,7 +46,7 @@ disableLanguages        = [""]
 
   [params.header]
     # Sets the navbarTitle that appears in the top left of the navigation bar
-    navbarTitle         = "🄵Ö🅂🅂ⒸÄⓂⓁ"
+    navbarTitle         = "FOSSCAML"
     # Sets navbarTitle to match the section of the website
     dynamicTitles       = true
     searchMenu          = true
@@ -56,7 +56,7 @@ disableLanguages        = [""]
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
   [params.intro]
-    header                = "🄵Ö🅂🅂ⒸÄⓂⓁ"
+    header                = "FOSSCAML"
     paragraph             = "Free and Opensource Software Reviews."
     rssIntro              = true
     socialIntro           = true
