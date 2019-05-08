@@ -12,4 +12,6 @@ autoThumbnailImage: true
 thumbnailImage: /images/uploads/logo.png
 coverImage: /images/uploads/logo.png
 ---
+![](/images/uploads/logo.png)
+
 awdawdadawdawdawdadwdawd
