@@ -1,4 +1,4 @@
-baseurl                 = "https://example.com/"
+baseurl                 = "https://fosscaml.netlify.com/"
 DefaultContentLanguage  = "en"
 title                   = "🄵Ö🅂🅂ⒸÄⓂⓁ"
 theme                   = "hugo-future-imperfect-slim"
